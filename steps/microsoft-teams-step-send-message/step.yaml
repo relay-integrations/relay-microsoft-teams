@@ -18,7 +18,7 @@ summary: Send a message to a Microsoft Teams channel
 
 # Single-paragraph explanation of what this action does in more detail.
 # Optional. Markdown.
-description: This step sends a message to a Microsoft Teams channel.
+description: Sends a message to a Microsoft Teams channel.
 
 # URL or path relative to this file to an icon or icons representing this
 # action. Optional. Defaults to the integration icon.
